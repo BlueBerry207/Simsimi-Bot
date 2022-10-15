@@ -1,2 +1,2 @@
 export const TOKEN = 'Bot Token'
-export const DB = 'Mongoose data base url'
+export const DB = 'Mongoose database url'
