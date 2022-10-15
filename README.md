@@ -25,4 +25,4 @@ Handler: https://github.com/andjsrk/djs-v14-ts-template
 I also received the Simsim's api key, so I don't know when it will expire. If it expires, please visit [https://simsimi.com](https://simsimi.com/) <= here and purchase api.
 
 ### Inquiry
-Discord: BlueBerry#8874
+Discord: BlueBerry#0001
